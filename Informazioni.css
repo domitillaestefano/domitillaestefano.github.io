@@ -1,0 +1,200 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 614px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  position: relative;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 494px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 19px 15px;
+}
+
+.u-section-1 .u-list-1 {
+  margin: 22px 0 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: repeat(1, 100%);
+  min-height: 434px;
+  grid-gap: 10px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 7px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 4px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 7px auto 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 4px 0 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 494px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 19px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 434px;
+  height: 434px;
+  background-image: url("https://assets.nicepagecdn.com/5c63795d/4351122/images/immagine.png");
+  background-position: 0% 50%;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 407px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 407px;
+    background-position: 4.63% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 312px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 360px;
+    height: 360px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 468px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 295px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+} .u-section-2 {
+  background-image: url("https://assets.nicepagecdn.com/5c63795d/4351122/images/15.jpg");
+  background-position: 100% 49.49%;
+  background-size: 125%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 411px;
+}
+
+.u-section-2 .u-map-1 {
+  width: 791px;
+  height: 314px;
+  margin: 50px 134px 47px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-map-1 {
+    width: 720px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 393px;
+  }
+
+  .u-section-2 .u-map-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 53.69% 100%;
+    background-size: auto 125%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 272px;
+  }
+
+  .u-section-2 .u-map-1 {
+    width: 340px;
+  }
+}
